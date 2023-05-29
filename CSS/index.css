@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width:100vw;
+    height: 100vh;
+    /* margin-top: 30px; */
+    background-image: linear-gradient( 23deg, hsl(49deg 100% 69%) 0%, hsl(16deg 80% 61%) 2%, hsl(330deg 81% 34%) 12%, hsl(259deg 100% 15%) 50%, hsl(212deg 100% 25%) 88%, hsl(197deg 100% 30%) 98%, hsl(183deg 79% 36%) 100% );    
+}
+/* .controles{
+    width: 100vw;
+    height: 10vh;
+    background-color: #9BA4B5;
+
+} */
+.header{
+    width: 100vw;
+    height: 15vh;
+    background-color: #0B2447;
+    display: flex;
+    justify-content:center;
+    align-items: center; 
+
+}
